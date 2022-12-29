@@ -1,0 +1,20 @@
+* Personal Emacs Config
+
+Step by step to create an emacs config I will love.
+
+** TODO Features
+
+- [ ] Beautiful UI
+- [ ] Enhance Org support
+- [ ] Project/Workspace integration
+- [ ] Programming Languages Support
+  - [ ] JavaScript/Typescript/JSX/TSX
+  - [ ] JSON
+  - [ ] HTML
+  - [ ] CSS
+  - [ ] Golang
+  - [ ] C/C++
+- [ ] Auto completion
+- [ ] Git integration
+- [ ] A package management system to facilitate easy package upgrades
+- [ ] Remote SSH likes vscode Support
