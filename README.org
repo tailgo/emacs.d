@@ -18,3 +18,12 @@ Step by step to create an emacs config I will love.
 - [ ] Git integration
 - [ ] A package management system to facilitate easy package upgrades
 - [ ] Remote SSH likes vscode Support
+
+** Packages
+
+** Reference
+
+- [prelude](https://github.com/bbatsov/prelude)
+- [purcell](https://github.com/purcell/emacs.d)
+- [Centuar Emacs](https://github.com/seagle0128/.emacs.d)
+- [zilongshanren](https://github.com/zilongshanren/emacs.d)
